@@ -1,0 +1,16 @@
+# Ignore PHP error logs
+*.log
+error_log
+
+# Ignore uploaded images directory (large binaries, not source code)
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
