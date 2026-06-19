@@ -2,8 +2,8 @@
 *.log
 error_log
 
-# Ignore uploaded images directory (large binaries, not source code)
-uploads/
+# Track sample restaurant images; ignore temp uploads only
+uploads/*.tmp
 
 # OS files
 .DS_Store
